@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Lenovo\Desktop\mini_project_dac_i2s\simulation\qsim
+vTop_DAC
+Z1 I^9dGMYc4BeRk9IGVT2cfi1
+Z2 VJXL10Tce]B:GGI1R;?HfO3
+Z3 dC:\Users\Lenovo\Desktop\mini_project_dac_i2s\simulation\qsim
+Z4 w1605183811
+Z5 8Top_DAC.vo
+Z6 FTop_DAC.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|Top_DAC.vo|
+Z9 o-work work -O0
+Z10 n@top_@d@a@c
+!i10b 1
+Z11 !s100 EO70C[@A=7H^mc0O3X5?Z1
+!s85 0
+Z12 !s108 1605183812.472000
+Z13 !s107 Top_DAC.vo|
+!s101 -O0
+vTop_DAC_vlg_check_tst
+!i10b 1
+Z14 !s100 z[GSonh:_9W[PVRD_Jj6l2
+Z15 ISF[ddIIR2QSOQUHP@:HO@2
+Z16 VzEfMUUzSB_b<<E8QIoj?12
+R3
+Z17 w1605183810
+Z18 8dac_waveform.vwf.vt
+Z19 Fdac_waveform.vwf.vt
+L0 57
+R7
+r1
+!s85 0
+31
+Z20 !s108 1605183812.648000
+Z21 !s107 dac_waveform.vwf.vt|
+Z22 !s90 -work|work|dac_waveform.vwf.vt|
+!s101 -O0
+R9
+Z23 n@top_@d@a@c_vlg_check_tst
+vTop_DAC_vlg_sample_tst
+!i10b 1
+Z24 !s100 S;G83`JakbPKcmLDFl8e32
+Z25 IYmNYEJ@cFImQa0m=njnJh0
+Z26 V3Q<RgC7eknZ3MI;Do=NSm1
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@top_@d@a@c_vlg_sample_tst
+vTop_DAC_vlg_vec_tst
+!i10b 1
+Z28 !s100 B7]fOUU[`j;zb@8h9kcC:3
+Z29 I67lO>f?bI8n6a:N?1zXd83
+Z30 V:2]43SU4YBC9RW:=AS]TZ0
+R3
+R17
+R18
+R19
+Z31 L0 206
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@top_@d@a@c_vlg_vec_tst
